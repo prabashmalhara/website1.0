@@ -1,0 +1,8 @@
+three listing methods
+ <ul> <ol> <dl>
+ - ul = unordered list (bullets)
+ - ol = ordered list (numbers)
+ - dl = description list (terms with descriptions)
+ - li = list item (used in ul and ol)
+ - dt = description term (used in dl)
+ - dd = description definition (used in dl)
