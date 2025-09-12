@@ -6,3 +6,15 @@ three listing methods
  - li = list item (used in ul and ol)
  - dt = description term (used in dl)
  - dd = description definition (used in dl)
+
+
+ adding table to html
+ <table> <tr> <th> <td>
+ - table = table
+ - tr = table row
+ - th = table header (bold and centered)
+ - td = table data (regular cell)
+ - caption = table title
+    - use <caption> to add a title to the table
+    - use the "border" attribute in <table> to add borders to the table
+    
